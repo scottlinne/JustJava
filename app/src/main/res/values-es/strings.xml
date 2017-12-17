@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Just Java</string>
+    <string name="toast_less_than">Usted no puede tener menos de 1 café</string>
+    <string name="topppings">Coberturas</string>
+    <string name="thank_you">Gracias!</string>
+    <string name="whipped_cream">Crema batida</string>
+    <string name="chocolate">Chocolate</string>
+</resources>
