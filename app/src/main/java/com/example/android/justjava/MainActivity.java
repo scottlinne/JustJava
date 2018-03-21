@@ -118,6 +118,7 @@ public class MainActivity extends AppCompatActivity {
     public void increment(View view)
     {
         if (quantity >= 100){
+            Toast.makeText(this, R.string.toast_more_than, Toast.LENGTH_LONG).show();
             return;
         }
         quantity = quantity + 1;
